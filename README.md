@@ -1,6 +1,4 @@
-# amazon_clone
-
-A Flutter project.
+# amazon_clone Flutter project.
 
 
 # amazon_clone
